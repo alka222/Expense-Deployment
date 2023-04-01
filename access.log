@@ -1,0 +1,5 @@
+::1 - - [01/Apr/2023:16:23:50 +0000] "POST /user/login HTTP/1.1" 201 220 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [01/Apr/2023:16:23:53 +0000] "POST /expense/1 HTTP/1.1" 200 919 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [01/Apr/2023:16:23:55 +0000] "POST /expense/2 HTTP/1.1" 200 276 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [01/Apr/2023:16:23:56 +0000] "POST /expense/1 HTTP/1.1" 200 919 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+::1 - - [01/Apr/2023:16:23:58 +0000] "GET /premium/showLeaderBoard HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
